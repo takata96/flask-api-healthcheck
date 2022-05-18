@@ -1,0 +1,6 @@
+flask
+flask_redis
+boto3
+mysqlclient
+Flask-MySQLdb
+pymsteams
